@@ -32,4 +32,4 @@ def simular_navegador():
     print("Restante na fila:", fila_down.proximo_download())  # 'musica.mp3'
 
 if __name__ == "__main__":
-    simular_navegador()
+    simular_navegador(
