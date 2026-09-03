@@ -28,4 +28,4 @@ int main() {
 
     cout << "Sucesso! As duas fotos foram salvas em cinza." << endl;
     return 0
-}
+};
