@@ -27,5 +27,5 @@ int main() {
     imwrite("saidas/resultado_familia.png", cinza2);
 
     cout << "Sucesso! As duas fotos foram salvas em cinza." << endl;
-    return 0
+    return 0;
 }
